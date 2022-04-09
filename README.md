@@ -1,2 +1,2 @@
-# wishwim
+# wishsim
 wishsim for stream
